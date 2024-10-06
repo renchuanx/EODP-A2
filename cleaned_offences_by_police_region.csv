@@ -1,0 +1,831 @@
+Year,Year ending,Police Region,Local Government Area,Offence Count,"Rate per 100,000 population"
+2023,December,1 North West Metro, Banyule,8072,6256.3
+2023,December,1 North West Metro, Brimbank,17044,8666.6
+2023,December,1 North West Metro, Darebin,13715,8823.9
+2023,December,1 North West Metro, Hobsons Bay,5720,6143.2
+2023,December,1 North West Metro, Hume,18342,7030.8
+2023,December,1 North West Metro, Maribyrnong,9713,10384.4
+2023,December,1 North West Metro, Melbourne,37764,21405.7
+2023,December,1 North West Metro, Melton,12862,6224.0
+2023,December,1 North West Metro, Merri-bek,12750,7049.7
+2023,December,1 North West Metro, Moonee Valley,8020,6354.3
+2023,December,1 North West Metro, Nillumbik,1776,2806.6
+2023,December,1 North West Metro, Whittlesea,13199,5395.8
+2023,December,1 North West Metro, Wyndham,18574,5746.8
+2023,December,1 North West Metro, Yarra,12835,13072.3
+2023,December,1 North West Metro,Total,190386,8108.2
+2023,December,2 Eastern, Alpine,519,3921.7
+2023,December,2 Eastern, Bass Coast,2957,6924.1
+2023,December,2 Eastern, Baw Baw,4496,7412.0
+2023,December,2 Eastern, Benalla,1515,10453.5
+2023,December,2 Eastern, Boroondara,7868,4515.9
+2023,December,2 Eastern, East Gippsland,5279,10687.6
+2023,December,2 Eastern, Greater Shepparton,8503,12215.8
+2023,December,2 Eastern, Indigo,657,3741.3
+2023,December,2 Eastern, Knox,10162,6315.4
+2023,December,2 Eastern, Latrobe,11863,15187.3
+2023,December,2 Eastern, Manningham,4817,3764.3
+2023,December,2 Eastern, Mansfield,601,5726.7
+2023,December,2 Eastern, Maroondah,7666,6548.0
+2023,December,2 Eastern, Mitchell,4163,7613.3
+2023,December,2 Eastern, Moira,2582,8404.7
+2023,December,2 Eastern, Monash,13629,6832.2
+2023,December,2 Eastern, Murrindindi,824,5304.9
+2023,December,2 Eastern, South Gippsland,2264,7315.8
+2023,December,2 Eastern, Strathbogie,529,4549.1
+2023,December,2 Eastern, Towong,284,4580.7
+2023,December,2 Eastern, Wangaratta,2715,9030.9
+2023,December,2 Eastern, Wellington,4681,10146.6
+2023,December,2 Eastern, Whitehorse,9916,5627.9
+2023,December,2 Eastern, Wodonga,4372,9871.2
+2023,December,2 Eastern, Yarra Ranges,7113,4478.3
+2023,December,2 Eastern,Total,119975,6890.6
+2023,December,3 Southern Metro, Bayside,5605,5422.0
+2023,December,3 Southern Metro, Cardinia,7108,5587.6
+2023,December,3 Southern Metro, Casey,23432,5982.9
+2023,December,3 Southern Metro, Frankston,14953,10490.5
+2023,December,3 Southern Metro, Glen Eira,7662,4948.3
+2023,December,3 Southern Metro, Greater Dandenong,18774,11610.9
+2023,December,3 Southern Metro, Kingston,12594,7762.3
+2023,December,3 Southern Metro, Mornington Peninsula,9928,5812.8
+2023,December,3 Southern Metro, Port Phillip,12727,11447.1
+2023,December,3 Southern Metro, Stonnington,11214,10020.7
+2023,December,3 Southern Metro,Total,123997,7572.6
+2023,December,4 Western, Ararat,1410,11956.8
+2023,December,4 Western, Ballarat,11715,9931.7
+2023,December,4 Western, Buloke,429,7042.0
+2023,December,4 Western, Campaspe,3925,10154.4
+2023,December,4 Western, Central Goldfields,1212,8916.6
+2023,December,4 Western, Colac-Otway,1471,6594.6
+2023,December,4 Western, Corangamite,729,4577.0
+2023,December,4 Western, Gannawarra,995,9502.7
+2023,December,4 Western, Glenelg,1645,8216.2
+2023,December,4 Western, Golden Plains,729,2832.5
+2023,December,4 Western, Greater Bendigo,11276,9072.0
+2023,December,4 Western, Greater Geelong,22601,8009.4
+2023,December,4 Western, Hepburn,710,4261.5
+2023,December,4 Western, Hindmarsh,307,5528.0
+2023,December,4 Western, Horsham,2756,13531.7
+2023,December,4 Western, Loddon,453,5844.9
+2023,December,4 Western, Macedon Ranges,2131,4030.1
+2023,December,4 Western, Mildura,8071,14036.6
+2023,December,4 Western, Moorabool,2593,6573.3
+2023,December,4 Western, Mount Alexander,1094,5342.6
+2023,December,4 Western, Moyne,625,3560.7
+2023,December,4 Western, Northern Grampians,1076,9085.2
+2023,December,4 Western, Pyrenees,369,4796.3
+2023,December,4 Western, Queenscliffe,93,2838.1
+2023,December,4 Western, Southern Grampians,1227,7515.2
+2023,December,4 Western, Surf Coast,1251,3165.2
+2023,December,4 Western, Swan Hill,2222,10508.8
+2023,December,4 Western, Warrnambool,3166,8867.4
+2023,December,4 Western, West Wimmera,187,4784.8
+2023,December,4 Western, Yarriambiack,413,6464.5
+2023,December,4 Western,Total,86881,8096.9
+2022,December,1 North West Metro, Banyule,7682,6032.3
+2022,December,1 North West Metro, Brimbank,16727,8655.4
+2022,December,1 North West Metro, Darebin,12671,8420.2
+2022,December,1 North West Metro, Hobsons Bay,5935,6464.9
+2022,December,1 North West Metro, Hume,18186,7188.5
+2022,December,1 North West Metro, Maribyrnong,8666,9901.1
+2022,December,1 North West Metro, Melbourne,34547,21592.8
+2022,December,1 North West Metro, Melton,12036,6231.3
+2022,December,1 North West Metro, Merri-bek,11926,6825.2
+2022,December,1 North West Metro, Moonee Valley,7569,6151.8
+2022,December,1 North West Metro, Nillumbik,1591,2523.8
+2022,December,1 North West Metro, Whittlesea,12477,5265.3
+2022,December,1 North West Metro, Wyndham,17648,5709.0
+2022,December,1 North West Metro, Yarra,12835,13905.6
+2022,December,1 North West Metro,Total,180496,8001.6
+2022,December,2 Eastern, Alpine,459,3480.7
+2022,December,2 Eastern, Bass Coast,2829,6768.3
+2022,December,2 Eastern, Baw Baw,4139,6985.9
+2022,December,2 Eastern, Benalla,1325,9165.1
+2022,December,2 Eastern, Boroondara,7079,4176.4
+2022,December,2 Eastern, East Gippsland,4877,9968.9
+2022,December,2 Eastern, Greater Shepparton,8921,12943.1
+2022,December,2 Eastern, Indigo,730,4191.1
+2022,December,2 Eastern, Knox,9133,5727.3
+2022,December,2 Eastern, Latrobe,11186,14402.3
+2022,December,2 Eastern, Manningham,3811,3012.9
+2022,December,2 Eastern, Mansfield,382,3696.2
+2022,December,2 Eastern, Maroondah,7525,6504.5
+2022,December,2 Eastern, Mitchell,3868,7488.3
+2022,December,2 Eastern, Moira,2048,6699.2
+2022,December,2 Eastern, Monash,11782,6045.9
+2022,December,2 Eastern, Murrindindi,750,4886.6
+2022,December,2 Eastern, South Gippsland,1942,6326.4
+2022,December,2 Eastern, Strathbogie,611,5308.4
+2022,December,2 Eastern, Towong,159,2566.2
+2022,December,2 Eastern, Wangaratta,2448,8186.5
+2022,December,2 Eastern, Wellington,4481,9784.1
+2022,December,2 Eastern, Whitehorse,7933,4599.7
+2022,December,2 Eastern, Wodonga,3635,8319.2
+2022,December,2 Eastern, Yarra Ranges,6973,4430.5
+2022,December,2 Eastern,Total,109026,6363.9
+2022,December,3 Southern Metro, Bayside,4954,4848.4
+2022,December,3 Southern Metro, Cardinia,6159,5003.1
+2022,December,3 Southern Metro, Casey,20949,5529.9
+2022,December,3 Southern Metro, Frankston,12737,9028.3
+2022,December,3 Southern Metro, Glen Eira,6934,4571.0
+2022,December,3 Southern Metro, Greater Dandenong,17016,10691.7
+2022,December,3 Southern Metro, Kingston,10694,6683.5
+2022,December,3 Southern Metro, Mornington Peninsula,9293,5477.3
+2022,December,3 Southern Metro, Port Phillip,12598,12114.6
+2022,December,3 Southern Metro, Stonnington,11314,10631.7
+2022,December,3 Southern Metro,Total,112648,7057.7
+2022,December,4 Western, Ararat,1342,11417.4
+2022,December,4 Western, Ballarat,10953,9446.2
+2022,December,4 Western, Buloke,289,4723.8
+2022,December,4 Western, Campaspe,3338,8660.9
+2022,December,4 Western, Central Goldfields,1174,8686.0
+2022,December,4 Western, Colac-Otway,1551,6990.3
+2022,December,4 Western, Corangamite,682,4264.4
+2022,December,4 Western, Gannawarra,804,7634.6
+2022,December,4 Western, Glenelg,1650,8233.1
+2022,December,4 Western, Golden Plains,600,2370.4
+2022,December,4 Western, Greater Bendigo,10467,8534.2
+2022,December,4 Western, Greater Geelong,19875,7189.5
+2022,December,4 Western, Hepburn,620,3742.4
+2022,December,4 Western, Hindmarsh,265,4733.0
+2022,December,4 Western, Horsham,2386,11732.3
+2022,December,4 Western, Loddon,457,5898.3
+2022,December,4 Western, Macedon Ranges,2027,3884.7
+2022,December,4 Western, Mildura,7369,12879.3
+2022,December,4 Western, Moorabool,2025,5258.9
+2022,December,4 Western, Mount Alexander,923,4543.0
+2022,December,4 Western, Moyne,659,3772.2
+2022,December,4 Western, Northern Grampians,983,8277.9
+2022,December,4 Western, Pyrenees,372,4862.1
+2022,December,4 Western, Queenscliffe,109,3385.1
+2022,December,4 Western, Southern Grampians,1257,7667.9
+2022,December,4 Western, Surf Coast,1075,2781.2
+2022,December,4 Western, Swan Hill,2074,9771.5
+2022,December,4 Western, Warrnambool,2933,8248.3
+2022,December,4 Western, West Wimmera,117,2968.0
+2022,December,4 Western, Yarriambiack,452,7024.1
+2022,December,4 Western,Total,78828,7437.1
+2021,December,1 North West Metro, Banyule,7351,5771.4
+2021,December,1 North West Metro, Brimbank,16994,8642.6
+2021,December,1 North West Metro, Darebin,12641,8410.7
+2021,December,1 North West Metro, Hobsons Bay,5832,6320.8
+2021,December,1 North West Metro, Hume,17888,7244.5
+2021,December,1 North West Metro, Maribyrnong,8622,9980.9
+2021,December,1 North West Metro, Melbourne,33627,21962.6
+2021,December,1 North West Metro, Melton,12101,6672.9
+2021,December,1 North West Metro, Merri-bek,11638,6707.8
+2021,December,1 North West Metro, Moonee Valley,7888,6415.6
+2021,December,1 North West Metro, Nillumbik,2202,3470.4
+2021,December,1 North West Metro, Whittlesea,13143,5669.2
+2021,December,1 North West Metro, Wyndham,15918,5371.9
+2021,December,1 North West Metro, Yarra,12150,13275.6
+2021,December,1 North West Metro,Total,177995,8039.9
+2021,December,2 Eastern, Alpine,553,4200.2
+2021,December,2 Eastern, Bass Coast,3144,7729.6
+2021,December,2 Eastern, Baw Baw,4432,7692.0
+2021,December,2 Eastern, Benalla,1423,9857.3
+2021,December,2 Eastern, Boroondara,7448,4386.6
+2021,December,2 Eastern, East Gippsland,4920,10149.1
+2021,December,2 Eastern, Greater Shepparton,9102,13282.5
+2021,December,2 Eastern, Indigo,612,3547.6
+2021,December,2 Eastern, Knox,10043,6258.1
+2021,December,2 Eastern, Latrobe,11339,14703.6
+2021,December,2 Eastern, Manningham,4012,3188.7
+2021,December,2 Eastern, Mansfield,489,4831.5
+2021,December,2 Eastern, Maroondah,7454,6421.7
+2021,December,2 Eastern, Mitchell,3674,7390.6
+2021,December,2 Eastern, Moira,2349,7735.4
+2021,December,2 Eastern, Monash,11482,5952.5
+2021,December,2 Eastern, Murrindindi,808,5337.2
+2021,December,2 Eastern, South Gippsland,1698,5587.7
+2021,December,2 Eastern, Strathbogie,649,5709.0
+2021,December,2 Eastern, Towong,194,3136.1
+2021,December,2 Eastern, Wangaratta,2338,7858.6
+2021,December,2 Eastern, Wellington,4386,9646.1
+2021,December,2 Eastern, Whitehorse,7603,4444.2
+2021,December,2 Eastern, Wodonga,3439,7959.4
+2021,December,2 Eastern, Yarra Ranges,7610,4834.2
+2021,December,2 Eastern,Total,111201,6531.5
+2021,December,3 Southern Metro, Bayside,4298,4200.2
+2021,December,3 Southern Metro, Cardinia,6420,5369.1
+2021,December,3 Southern Metro, Casey,19786,5354.0
+2021,December,3 Southern Metro, Frankston,11748,8342.3
+2021,December,3 Southern Metro, Glen Eira,6840,4540.7
+2021,December,3 Southern Metro, Greater Dandenong,16551,10337.9
+2021,December,3 Southern Metro, Kingston,9603,6018.7
+2021,December,3 Southern Metro, Mornington Peninsula,9011,5286.9
+2021,December,3 Southern Metro, Port Phillip,12329,11919.2
+2021,December,3 Southern Metro, Stonnington,10602,9984.0
+2021,December,3 Southern Metro,Total,107188,6772.7
+2021,December,4 Western, Ararat,1591,13452.3
+2021,December,4 Western, Ballarat,10139,8932.7
+2021,December,4 Western, Buloke,286,4664.1
+2021,December,4 Western, Campaspe,3285,8520.1
+2021,December,4 Western, Central Goldfields,1084,8096.8
+2021,December,4 Western, Colac-Otway,1551,6952.4
+2021,December,4 Western, Corangamite,868,5414.8
+2021,December,4 Western, Gannawarra,793,7470.6
+2021,December,4 Western, Glenelg,1756,8754.6
+2021,December,4 Western, Golden Plains,604,2426.5
+2021,December,4 Western, Greater Bendigo,10464,8628.5
+2021,December,4 Western, Greater Geelong,19999,7381.6
+2021,December,4 Western, Hepburn,555,3366.7
+2021,December,4 Western, Hindmarsh,452,7991.5
+2021,December,4 Western, Horsham,2424,11896.3
+2021,December,4 Western, Loddon,539,6997.3
+2021,December,4 Western, Macedon Ranges,2023,3920.6
+2021,December,4 Western, Mildura,6594,11575.3
+2021,December,4 Western, Moorabool,2120,5592.2
+2021,December,4 Western, Mount Alexander,924,4593.8
+2021,December,4 Western, Moyne,706,4081.9
+2021,December,4 Western, Northern Grampians,1094,9204.1
+2021,December,4 Western, Pyrenees,456,5985.0
+2021,December,4 Western, Queenscliffe,87,2688.5
+2021,December,4 Western, Southern Grampians,1035,6275.8
+2021,December,4 Western, Surf Coast,1364,3623.0
+2021,December,4 Western, Swan Hill,2483,11613.1
+2021,December,4 Western, Warrnambool,3127,8825.1
+2021,December,4 Western, West Wimmera,216,5429.9
+2021,December,4 Western, Yarriambiack,375,5760.4
+2021,December,4 Western,Total,78994,7539.0
+2020,December,1 North West Metro, Banyule,9456,7257.4
+2020,December,1 North West Metro, Brimbank,20216,9899.5
+2020,December,1 North West Metro, Darebin,15737,10020.0
+2020,December,1 North West Metro, Hobsons Bay,5825,6119.1
+2020,December,1 North West Metro, Hume,21992,9026.3
+2020,December,1 North West Metro, Maribyrnong,9156,10239.5
+2020,December,1 North West Metro, Melbourne,36502,21397.6
+2020,December,1 North West Metro, Melton,14353,8269.5
+2020,December,1 North West Metro, Merri-bek,13768,7647.6
+2020,December,1 North West Metro, Moonee Valley,8403,6627.7
+2020,December,1 North West Metro, Nillumbik,2286,3554.0
+2020,December,1 North West Metro, Whittlesea,16792,7268.0
+2020,December,1 North West Metro, Wyndham,18263,6356.9
+2020,December,1 North West Metro, Yarra,14202,14692.4
+2020,December,1 North West Metro,Total,206951,9197.4
+2020,December,2 Eastern, Alpine,582,4458.4
+2020,December,2 Eastern, Bass Coast,2893,7427.5
+2020,December,2 Eastern, Baw Baw,5083,9117.0
+2020,December,2 Eastern, Benalla,1409,9797.0
+2020,December,2 Eastern, Boroondara,8012,4504.3
+2020,December,2 Eastern, East Gippsland,5147,10751.1
+2020,December,2 Eastern, Greater Shepparton,9160,13377.3
+2020,December,2 Eastern, Indigo,575,3359.6
+2020,December,2 Eastern, Knox,11986,7342.5
+2020,December,2 Eastern, Latrobe,13628,17764.7
+2020,December,2 Eastern, Manningham,4837,3779.3
+2020,December,2 Eastern, Mansfield,512,5228.8
+2020,December,2 Eastern, Maroondah,8010,6771.2
+2020,December,2 Eastern, Mitchell,5335,11097.7
+2020,December,2 Eastern, Moira,2270,7492.2
+2020,December,2 Eastern, Monash,12826,6387.7
+2020,December,2 Eastern, Murrindindi,895,6018.0
+2020,December,2 Eastern, South Gippsland,1743,5757.8
+2020,December,2 Eastern, Strathbogie,617,5529.7
+2020,December,2 Eastern, Towong,219,3549.4
+2020,December,2 Eastern, Wangaratta,3083,10444.8
+2020,December,2 Eastern, Wellington,4843,10737.2
+2020,December,2 Eastern, Whitehorse,9346,5286.4
+2020,December,2 Eastern, Wodonga,3568,8362.6
+2020,December,2 Eastern, Yarra Ranges,8759,5513.1
+2020,December,2 Eastern,Total,125338,7269.8
+2020,December,3 Southern Metro, Bayside,5586,5319.1
+2020,December,3 Southern Metro, Cardinia,7602,6525.0
+2020,December,3 Southern Metro, Casey,23188,6370.9
+2020,December,3 Southern Metro, Frankston,14784,10397.3
+2020,December,3 Southern Metro, Glen Eira,7867,5086.8
+2020,December,3 Southern Metro, Greater Dandenong,19351,11682.0
+2020,December,3 Southern Metro, Kingston,11631,7127.0
+2020,December,3 Southern Metro, Mornington Peninsula,11331,6658.0
+2020,December,3 Southern Metro, Port Phillip,13574,12275.9
+2020,December,3 Southern Metro, Stonnington,11589,10291.3
+2020,December,3 Southern Metro,Total,126503,7884.0
+2020,December,4 Western, Ararat,1564,13123.0
+2020,December,4 Western, Ballarat,9764,8745.6
+2020,December,4 Western, Buloke,498,8089.7
+2020,December,4 Western, Campaspe,3785,9862.2
+2020,December,4 Western, Central Goldfields,1163,8741.7
+2020,December,4 Western, Colac-Otway,1810,8126.1
+2020,December,4 Western, Corangamite,867,5382.4
+2020,December,4 Western, Gannawarra,961,9087.5
+2020,December,4 Western, Glenelg,1679,8372.0
+2020,December,4 Western, Golden Plains,588,2413.2
+2020,December,4 Western, Greater Bendigo,11062,9221.6
+2020,December,4 Western, Greater Geelong,22961,8630.8
+2020,December,4 Western, Hepburn,713,4363.8
+2020,December,4 Western, Hindmarsh,590,10409.3
+2020,December,4 Western, Horsham,2479,12160.9
+2020,December,4 Western, Loddon,532,6947.9
+2020,December,4 Western, Macedon Ranges,2734,5371.9
+2020,December,4 Western, Mildura,6572,11462.5
+2020,December,4 Western, Moorabool,2690,7281.3
+2020,December,4 Western, Mount Alexander,952,4774.6
+2020,December,4 Western, Moyne,672,3931.9
+2020,December,4 Western, Northern Grampians,1192,10097.4
+2020,December,4 Western, Pyrenees,515,6826.6
+2020,December,4 Western, Queenscliffe,122,3941.8
+2020,December,4 Western, Southern Grampians,1160,7027.7
+2020,December,4 Western, Surf Coast,1514,4225.9
+2020,December,4 Western, Swan Hill,2491,11586.6
+2020,December,4 Western, Warrnambool,3335,9416.1
+2020,December,4 Western, West Wimmera,169,4231.3
+2020,December,4 Western, Yarriambiack,505,7604.3
+2020,December,4 Western,Total,85639,8271.5
+2019,December,1 North West Metro, Banyule,9514,7284.4
+2019,December,1 North West Metro, Brimbank,19791,9571.5
+2019,December,1 North West Metro, Darebin,14523,9232.8
+2019,December,1 North West Metro, Hobsons Bay,6225,6496.7
+2019,December,1 North West Metro, Hume,21416,9098.9
+2019,December,1 North West Metro, Maribyrnong,8901,9949.7
+2019,December,1 North West Metro, Melbourne,36346,21512.6
+2019,December,1 North West Metro, Melton,12612,7618.9
+2019,December,1 North West Metro, Merri-bek,14368,8012.2
+2019,December,1 North West Metro, Moonee Valley,8280,6550.3
+2019,December,1 North West Metro, Nillumbik,2233,3463.9
+2019,December,1 North West Metro, Whittlesea,16472,7286.2
+2019,December,1 North West Metro, Wyndham,16755,6132.8
+2019,December,1 North West Metro, Yarra,13504,13987.4
+2019,December,1 North West Metro,Total,200940,9068.4
+2019,December,2 Eastern, Alpine,570,4417.2
+2019,December,2 Eastern, Bass Coast,2498,6672.0
+2019,December,2 Eastern, Baw Baw,4761,8809.0
+2019,December,2 Eastern, Benalla,1309,9194.4
+2019,December,2 Eastern, Boroondara,8139,4530.1
+2019,December,2 Eastern, East Gippsland,4895,10313.1
+2019,December,2 Eastern, Greater Shepparton,8836,13045.3
+2019,December,2 Eastern, Indigo,598,3543.5
+2019,December,2 Eastern, Knox,11923,7300.9
+2019,December,2 Eastern, Latrobe,14004,18397.0
+2019,December,2 Eastern, Manningham,5138,4049.7
+2019,December,2 Eastern, Mansfield,472,5012.2
+2019,December,2 Eastern, Maroondah,8163,6919.8
+2019,December,2 Eastern, Mitchell,4819,10391.8
+2019,December,2 Eastern, Moira,2541,8442.1
+2019,December,2 Eastern, Monash,11689,5851.5
+2019,December,2 Eastern, Murrindindi,809,5489.6
+2019,December,2 Eastern, South Gippsland,1729,5778.2
+2019,December,2 Eastern, Strathbogie,629,5766.9
+2019,December,2 Eastern, Towong,214,3484.2
+2019,December,2 Eastern, Wangaratta,2521,8563.5
+2019,December,2 Eastern, Wellington,4589,10271.7
+2019,December,2 Eastern, Whitehorse,9222,5243.9
+2019,December,2 Eastern, Wodonga,3745,8898.9
+2019,December,2 Eastern, Yarra Ranges,9178,5781.6
+2019,December,2 Eastern,Total,122991,7180.7
+2019,December,3 Southern Metro, Bayside,5098,4849.3
+2019,December,3 Southern Metro, Cardinia,6638,5926.7
+2019,December,3 Southern Metro, Casey,22532,6401.0
+2019,December,3 Southern Metro, Frankston,14921,10510.0
+2019,December,3 Southern Metro, Glen Eira,7388,4799.4
+2019,December,3 Southern Metro, Greater Dandenong,18916,11374.9
+2019,December,3 Southern Metro, Kingston,12107,7419.5
+2019,December,3 Southern Metro, Mornington Peninsula,11211,6649.7
+2019,December,3 Southern Metro, Port Phillip,12549,11226.3
+2019,December,3 Southern Metro, Stonnington,11752,10326.9
+2019,December,3 Southern Metro,Total,123112,7749.3
+2019,December,4 Western, Ararat,1262,10660.6
+2019,December,4 Western, Ballarat,11742,10696.6
+2019,December,4 Western, Buloke,300,4865.4
+2019,December,4 Western, Campaspe,3962,10391.3
+2019,December,4 Western, Central Goldfields,1411,10570.1
+2019,December,4 Western, Colac-Otway,1649,7482.9
+2019,December,4 Western, Corangamite,646,3994.8
+2019,December,4 Western, Gannawarra,829,7848.9
+2019,December,4 Western, Glenelg,1674,8373.3
+2019,December,4 Western, Golden Plains,650,2729.9
+2019,December,4 Western, Greater Bendigo,11453,9688.4
+2019,December,4 Western, Greater Geelong,21705,8343.8
+2019,December,4 Western, Hepburn,870,5402.0
+2019,December,4 Western, Hindmarsh,330,5822.2
+2019,December,4 Western, Horsham,1951,9658.4
+2019,December,4 Western, Loddon,476,6239.3
+2019,December,4 Western, Macedon Ranges,2444,4872.2
+2019,December,4 Western, Mildura,7425,13080.5
+2019,December,4 Western, Moorabool,2127,5942.5
+2019,December,4 Western, Mount Alexander,1224,6214.5
+2019,December,4 Western, Moyne,683,4018.4
+2019,December,4 Western, Northern Grampians,1104,9430.3
+2019,December,4 Western, Pyrenees,654,8779.7
+2019,December,4 Western, Queenscliffe,116,3901.8
+2019,December,4 Western, Southern Grampians,1215,7418.5
+2019,December,4 Western, Surf Coast,1245,3639.0
+2019,December,4 Western, Swan Hill,2625,12262.3
+2019,December,4 Western, Warrnambool,3452,9833.6
+2019,December,4 Western, West Wimmera,168,4222.2
+2019,December,4 Western, Yarriambiack,477,7146.1
+2019,December,4 Western,Total,85869,8426.2
+2018,December,1 North West Metro, Banyule,9403,7252.9
+2018,December,1 North West Metro, Brimbank,19051,9204.4
+2018,December,1 North West Metro, Darebin,15236,9698.1
+2018,December,1 North West Metro, Hobsons Bay,6236,6553.9
+2018,December,1 North West Metro, Hume,20702,9179.4
+2018,December,1 North West Metro, Maribyrnong,8434,9490.2
+2018,December,1 North West Metro, Melbourne,36171,22141.5
+2018,December,1 North West Metro, Melton,10680,6801.7
+2018,December,1 North West Metro, Merri-bek,14556,8192.3
+2018,December,1 North West Metro, Moonee Valley,8613,6863.7
+2018,December,1 North West Metro, Nillumbik,2107,3264.5
+2018,December,1 North West Metro, Whittlesea,15615,7078.4
+2018,December,1 North West Metro, Wyndham,14462,5627.0
+2018,December,1 North West Metro, Yarra,13683,14327.1
+2018,December,1 North West Metro,Total,194949,9006.7
+2018,December,2 Eastern, Alpine,579,4515.7
+2018,December,2 Eastern, Bass Coast,2211,6127.5
+2018,December,2 Eastern, Baw Baw,4491,8562.9
+2018,December,2 Eastern, Benalla,1191,8412.2
+2018,December,2 Eastern, Boroondara,6942,3869.9
+2018,December,2 Eastern, East Gippsland,4507,9613.7
+2018,December,2 Eastern, Greater Shepparton,8744,13084.7
+2018,December,2 Eastern, Indigo,451,2714.7
+2018,December,2 Eastern, Knox,10806,6651.5
+2018,December,2 Eastern, Latrobe,14603,19319.7
+2018,December,2 Eastern, Manningham,4362,3487.1
+2018,December,2 Eastern, Mansfield,480,5244.2
+2018,December,2 Eastern, Maroondah,8103,6918.2
+2018,December,2 Eastern, Mitchell,4314,9682.2
+2018,December,2 Eastern, Moira,2115,7071.2
+2018,December,2 Eastern, Monash,10332,5217.9
+2018,December,2 Eastern, Murrindindi,715,4910.4
+2018,December,2 Eastern, South Gippsland,1445,4881.1
+2018,December,2 Eastern, Strathbogie,604,5627.0
+2018,December,2 Eastern, Towong,212,3475.4
+2018,December,2 Eastern, Wangaratta,2388,8158.8
+2018,December,2 Eastern, Wellington,4004,9052.1
+2018,December,2 Eastern, Whitehorse,8193,4697.0
+2018,December,2 Eastern, Wodonga,3207,7720.1
+2018,December,2 Eastern, Yarra Ranges,7658,4852.4
+2018,December,2 Eastern,Total,112657,6644.9
+2018,December,3 Southern Metro, Bayside,4686,4478.9
+2018,December,3 Southern Metro, Cardinia,6048,5655.2
+2018,December,3 Southern Metro, Casey,21021,6217.6
+2018,December,3 Southern Metro, Frankston,14871,10507.2
+2018,December,3 Southern Metro, Glen Eira,6470,4245.7
+2018,December,3 Southern Metro, Greater Dandenong,18291,11092.5
+2018,December,3 Southern Metro, Kingston,11005,6806.4
+2018,December,3 Southern Metro, Mornington Peninsula,10797,6482.2
+2018,December,3 Southern Metro, Port Phillip,13097,11827.5
+2018,December,3 Southern Metro, Stonnington,10782,9513.0
+2018,December,3 Southern Metro,Total,117068,7500.6
+2018,December,4 Western, Ararat,1349,11427.4
+2018,December,4 Western, Ballarat,10865,10096.8
+2018,December,4 Western, Buloke,236,3797.9
+2018,December,4 Western, Campaspe,3807,10032.1
+2018,December,4 Western, Central Goldfields,1294,9707.4
+2018,December,4 Western, Colac-Otway,1596,7313.4
+2018,December,4 Western, Corangamite,715,4405.2
+2018,December,4 Western, Gannawarra,750,7074.8
+2018,December,4 Western, Glenelg,1343,6751.1
+2018,December,4 Western, Golden Plains,684,2949.4
+2018,December,4 Western, Greater Bendigo,10549,9079.4
+2018,December,4 Western, Greater Geelong,20766,8202.2
+2018,December,4 Western, Hepburn,740,4653.5
+2018,December,4 Western, Hindmarsh,351,6167.6
+2018,December,4 Western, Horsham,3021,15056.8
+2018,December,4 Western, Loddon,490,6445.7
+2018,December,4 Western, Macedon Ranges,2331,4728.0
+2018,December,4 Western, Mildura,7328,13049.8
+2018,December,4 Western, Moorabool,2440,7039.4
+2018,December,4 Western, Mount Alexander,879,4507.7
+2018,December,4 Western, Moyne,530,3136.7
+2018,December,4 Western, Northern Grampians,988,8492.4
+2018,December,4 Western, Pyrenees,501,6837.7
+2018,December,4 Western, Queenscliffe,303,10257.3
+2018,December,4 Western, Southern Grampians,1562,9588.1
+2018,December,4 Western, Surf Coast,1185,3618.3
+2018,December,4 Western, Swan Hill,2526,11892.7
+2018,December,4 Western, Warrnambool,3950,11343.1
+2018,December,4 Western, West Wimmera,166,4187.7
+2018,December,4 Western, Yarriambiack,503,7509.7
+2018,December,4 Western,Total,83748,8362.6
+2017,December,1 North West Metro, Banyule,9655,7504.3
+2017,December,1 North West Metro, Brimbank,17143,8317.2
+2017,December,1 North West Metro, Darebin,14791,9449.6
+2017,December,1 North West Metro, Hobsons Bay,6070,6420.4
+2017,December,1 North West Metro, Hume,20216,9348.5
+2017,December,1 North West Metro, Maribyrnong,8022,9103.5
+2017,December,1 North West Metro, Melbourne,36482,23392.5
+2017,December,1 North West Metro, Melton,10631,7148.8
+2017,December,1 North West Metro, Merri-bek,12744,7277.7
+2017,December,1 North West Metro, Moonee Valley,8605,6921.6
+2017,December,1 North West Metro, Nillumbik,2325,3609.5
+2017,December,1 North West Metro, Whittlesea,15580,7265.9
+2017,December,1 North West Metro, Wyndham,14229,5890.1
+2017,December,1 North West Metro, Yarra,13281,14053.5
+2017,December,1 North West Metro,Total,189774,8997.3
+2017,December,2 Eastern, Alpine,454,3578.5
+2017,December,2 Eastern, Bass Coast,2574,7407.6
+2017,December,2 Eastern, Baw Baw,3751,7371.8
+2017,December,2 Eastern, Benalla,1294,9210.6
+2017,December,2 Eastern, Boroondara,7313,4093.5
+2017,December,2 Eastern, East Gippsland,3964,8576.6
+2017,December,2 Eastern, Greater Shepparton,8046,12199.2
+2017,December,2 Eastern, Indigo,491,2995.7
+2017,December,2 Eastern, Knox,11278,6982.2
+2017,December,2 Eastern, Latrobe,13336,17760.5
+2017,December,2 Eastern, Manningham,4903,3950.0
+2017,December,2 Eastern, Mansfield,664,7463.2
+2017,December,2 Eastern, Maroondah,8288,7131.1
+2017,December,2 Eastern, Mitchell,4401,10224.2
+2017,December,2 Eastern, Moira,1924,6474.4
+2017,December,2 Eastern, Monash,11115,5680.6
+2017,December,2 Eastern, Murrindindi,717,5017.5
+2017,December,2 Eastern, South Gippsland,1442,4911.3
+2017,December,2 Eastern, Strathbogie,567,5383.6
+2017,December,2 Eastern, Towong,217,3578.5
+2017,December,2 Eastern, Wangaratta,2346,8103.3
+2017,December,2 Eastern, Wellington,3666,8356.1
+2017,December,2 Eastern, Whitehorse,8300,4815.1
+2017,December,2 Eastern, Wodonga,3296,8071.1
+2017,December,2 Eastern, Yarra Ranges,8209,5238.8
+2017,December,2 Eastern,Total,112556,6712.4
+2017,December,3 Southern Metro, Bayside,4761,4592.7
+2017,December,3 Southern Metro, Cardinia,5816,5687.6
+2017,December,3 Southern Metro, Casey,21223,6531.2
+2017,December,3 Southern Metro, Frankston,14276,10153.6
+2017,December,3 Southern Metro, Glen Eira,6821,4526.2
+2017,December,3 Southern Metro, Greater Dandenong,18093,11105.2
+2017,December,3 Southern Metro, Kingston,10709,6687.3
+2017,December,3 Southern Metro, Mornington Peninsula,10915,6647.9
+2017,December,3 Southern Metro, Port Phillip,12509,11421.3
+2017,December,3 Southern Metro, Stonnington,9880,8810.9
+2017,December,3 Southern Metro,Total,115003,7511.2
+2017,December,4 Western, Ararat,1255,10639.2
+2017,December,4 Western, Ballarat,11583,10973.8
+2017,December,4 Western, Buloke,199,3198.8
+2017,December,4 Western, Campaspe,3377,8934.1
+2017,December,4 Western, Central Goldfields,1452,11000.0
+2017,December,4 Western, Colac-Otway,1742,8066.7
+2017,December,4 Western, Corangamite,1027,6308.7
+2017,December,4 Western, Gannawarra,569,5366.9
+2017,December,4 Western, Glenelg,1639,8276.9
+2017,December,4 Western, Golden Plains,688,3042.5
+2017,December,4 Western, Greater Bendigo,9716,8503.0
+2017,December,4 Western, Greater Geelong,22946,9313.1
+2017,December,4 Western, Hepburn,886,5640.4
+2017,December,4 Western, Hindmarsh,385,6721.4
+2017,December,4 Western, Horsham,2393,11978.8
+2017,December,4 Western, Loddon,347,4584.5
+2017,December,4 Western, Macedon Ranges,2128,4395.3
+2017,December,4 Western, Mildura,6496,11718.7
+2017,December,4 Western, Moorabool,2146,6370.0
+2017,December,4 Western, Mount Alexander,1007,5218.4
+2017,December,4 Western, Moyne,622,3707.0
+2017,December,4 Western, Northern Grampians,1054,9093.3
+2017,December,4 Western, Pyrenees,527,7194.5
+2017,December,4 Western, Queenscliffe,133,4550.1
+2017,December,4 Western, Southern Grampians,1279,7891.7
+2017,December,4 Western, Surf Coast,1166,3695.1
+2017,December,4 Western, Swan Hill,2414,11457.6
+2017,December,4 Western, Warrnambool,3482,10086.9
+2017,December,4 Western, West Wimmera,188,4757.1
+2017,December,4 Western, Yarriambiack,478,7125.8
+2017,December,4 Western,Total,83324,8463.1
+2016,December,1 North West Metro, Banyule,10073,7903.7
+2016,December,1 North West Metro, Brimbank,19143,9375.1
+2016,December,1 North West Metro, Darebin,16853,10864.1
+2016,December,1 North West Metro, Hobsons Bay,6697,7166.8
+2016,December,1 North West Metro, Hume,23644,11420.0
+2016,December,1 North West Metro, Maribyrnong,9139,10511.6
+2016,December,1 North West Metro, Melbourne,37886,25932.3
+2016,December,1 North West Metro, Melton,12053,8522.8
+2016,December,1 North West Metro, Merri-bek,14866,8628.3
+2016,December,1 North West Metro, Moonee Valley,9618,7827.7
+2016,December,1 North West Metro, Nillumbik,3174,4945.9
+2016,December,1 North West Metro, Whittlesea,16666,8049.0
+2016,December,1 North West Metro, Wyndham,15380,6775.1
+2016,December,1 North West Metro, Yarra,14004,15075.2
+2016,December,1 North West Metro,Total,209196,10214.6
+2016,December,2 Eastern, Alpine,387,3076.8
+2016,December,2 Eastern, Bass Coast,2948,8809.5
+2016,December,2 Eastern, Baw Baw,4143,8404.3
+2016,December,2 Eastern, Benalla,1604,11471.9
+2016,December,2 Eastern, Boroondara,8397,4736.7
+2016,December,2 Eastern, East Gippsland,4158,9118.4
+2016,December,2 Eastern, Greater Shepparton,8399,12907.2
+2016,December,2 Eastern, Indigo,396,2449.7
+2016,December,2 Eastern, Knox,12132,7565.8
+2016,December,2 Eastern, Latrobe,14480,19404.5
+2016,December,2 Eastern, Manningham,5014,4090.7
+2016,December,2 Eastern, Mansfield,618,7124.7
+2016,December,2 Eastern, Maroondah,9199,8013.1
+2016,December,2 Eastern, Mitchell,4710,11269.3
+2016,December,2 Eastern, Moira,1944,6593.0
+2016,December,2 Eastern, Monash,12535,6507.5
+2016,December,2 Eastern, Murrindindi,715,5088.2
+2016,December,2 Eastern, South Gippsland,1503,5161.0
+2016,December,2 Eastern, Strathbogie,678,6546.3
+2016,December,2 Eastern, Towong,243,4019.2
+2016,December,2 Eastern, Wangaratta,2594,9072.5
+2016,December,2 Eastern, Wellington,4747,10905.1
+2016,December,2 Eastern, Whitehorse,7988,4708.8
+2016,December,2 Eastern, Wodonga,3310,8254.4
+2016,December,2 Eastern, Yarra Ranges,8917,5744.5
+2016,December,2 Eastern,Total,121759,7356.9
+2016,December,3 Southern Metro, Bayside,5395,5242.3
+2016,December,3 Southern Metro, Cardinia,7229,7408.8
+2016,December,3 Southern Metro, Casey,24076,7697.2
+2016,December,3 Southern Metro, Frankston,16908,12120.3
+2016,December,3 Southern Metro, Glen Eira,7521,5061.8
+2016,December,3 Southern Metro, Greater Dandenong,20635,12879.0
+2016,December,3 Southern Metro, Kingston,11568,7278.2
+2016,December,3 Southern Metro, Mornington Peninsula,12006,7432.8
+2016,December,3 Southern Metro, Port Phillip,13601,12520.8
+2016,December,3 Southern Metro, Stonnington,11590,10441.2
+2016,December,3 Southern Metro,Total,130529,8692.2
+2016,December,4 Western, Ararat,1179,10038.3
+2016,December,4 Western, Ballarat,12089,11680.2
+2016,December,4 Western, Buloke,230,3660.1
+2016,December,4 Western, Campaspe,3850,10240.7
+2016,December,4 Western, Central Goldfields,1507,11515.2
+2016,December,4 Western, Colac-Otway,1996,9343.7
+2016,December,4 Western, Corangamite,959,5904.1
+2016,December,4 Western, Gannawarra,612,5791.6
+2016,December,4 Western, Glenelg,1673,8467.0
+2016,December,4 Western, Golden Plains,865,3929.0
+2016,December,4 Western, Greater Bendigo,10853,9667.1
+2016,December,4 Western, Greater Geelong,22962,9586.3
+2016,December,4 Western, Hepburn,917,5906.6
+2016,December,4 Western, Hindmarsh,370,6397.0
+2016,December,4 Western, Horsham,2824,14202.4
+2016,December,4 Western, Loddon,478,6324.4
+2016,December,4 Western, Macedon Ranges,2456,5172.7
+2016,December,4 Western, Mildura,6518,11925.1
+2016,December,4 Western, Moorabool,2534,7755.9
+2016,December,4 Western, Mount Alexander,1254,6566.5
+2016,December,4 Western, Moyne,646,3859.7
+2016,December,4 Western, Northern Grampians,1346,11633.5
+2016,December,4 Western, Pyrenees,561,7668.1
+2016,December,4 Western, Queenscliffe,143,4882.2
+2016,December,4 Western, Southern Grampians,1350,8373.1
+2016,December,4 Western, Surf Coast,1352,4437.9
+2016,December,4 Western, Swan Hill,2224,10643.2
+2016,December,4 Western, Warrnambool,3239,9459.1
+2016,December,4 Western, West Wimmera,187,4749.8
+2016,December,4 Western, Yarriambiack,440,6525.3
+2016,December,4 Western,Total,87614,9055.1
+2015,December,1 North West Metro, Banyule,9226,7317.1
+2015,December,1 North West Metro, Brimbank,19228,9572.8
+2015,December,1 North West Metro, Darebin,15339,10093.2
+2015,December,1 North West Metro, Hobsons Bay,6897,7523.4
+2015,December,1 North West Metro, Hume,20491,10339.8
+2015,December,1 North West Metro, Maribyrnong,8678,10235.5
+2015,December,1 North West Metro, Melbourne,34416,25144.7
+2015,December,1 North West Metro, Melton,11011,8161.4
+2015,December,1 North West Metro, Merri-bek,14039,8363.0
+2015,December,1 North West Metro, Moonee Valley,9621,8002.1
+2015,December,1 North West Metro, Nillumbik,3022,4746.0
+2015,December,1 North West Metro, Whittlesea,13731,6975.5
+2015,December,1 North West Metro, Wyndham,14315,6695.0
+2015,December,1 North West Metro, Yarra,12954,14405.7
+2015,December,1 North West Metro,Total,192968,9757.2
+2015,December,2 Eastern, Alpine,489,3934.3
+2015,December,2 Eastern, Bass Coast,2786,8552.3
+2015,December,2 Eastern, Baw Baw,3771,7883.0
+2015,December,2 Eastern, Benalla,1150,8259.7
+2015,December,2 Eastern, Boroondara,7457,4267.2
+2015,December,2 Eastern, East Gippsland,4193,9345.2
+2015,December,2 Eastern, Greater Shepparton,7650,11862.5
+2015,December,2 Eastern, Indigo,511,3209.4
+2015,December,2 Eastern, Knox,10121,6377.4
+2015,December,2 Eastern, Latrobe,13270,17868.2
+2015,December,2 Eastern, Manningham,4382,3627.9
+2015,December,2 Eastern, Mansfield,414,4853.5
+2015,December,2 Eastern, Maroondah,7779,6882.7
+2015,December,2 Eastern, Mitchell,4118,10227.5
+2015,December,2 Eastern, Moira,1537,5247.9
+2015,December,2 Eastern, Monash,10097,5337.4
+2015,December,2 Eastern, Murrindindi,647,4672.2
+2015,December,2 Eastern, South Gippsland,1343,4666.3
+2015,December,2 Eastern, Strathbogie,506,4973.0
+2015,December,2 Eastern, Towong,194,3230.6
+2015,December,2 Eastern, Wangaratta,2410,8563.4
+2015,December,2 Eastern, Wellington,4396,10182.5
+2015,December,2 Eastern, Whitehorse,8361,5016.2
+2015,December,2 Eastern, Wodonga,3554,9061.0
+2015,December,2 Eastern, Yarra Ranges,7909,5156.1
+2015,December,2 Eastern,Total,109045,6688.9
+2015,December,3 Southern Metro, Bayside,4505,4448.6
+2015,December,3 Southern Metro, Cardinia,7316,7926.5
+2015,December,3 Southern Metro, Casey,21029,7020.7
+2015,December,3 Southern Metro, Frankston,14821,10756.2
+2015,December,3 Southern Metro, Glen Eira,6488,4446.2
+2015,December,3 Southern Metro, Greater Dandenong,19478,12481.0
+2015,December,3 Southern Metro, Kingston,11025,7056.3
+2015,December,3 Southern Metro, Mornington Peninsula,11047,6955.2
+2015,December,3 Southern Metro, Port Phillip,12432,11686.3
+2015,December,3 Southern Metro, Stonnington,10105,9354.1
+2015,December,3 Southern Metro,Total,118246,8086.0
+2015,December,4 Western, Ararat,1257,10795.3
+2015,December,4 Western, Ballarat,11307,11142.2
+2015,December,4 Western, Buloke,222,3520.5
+2015,December,4 Western, Campaspe,3068,8196.9
+2015,December,4 Western, Central Goldfields,1264,9760.6
+2015,December,4 Western, Colac-Otway,1677,7899.2
+2015,December,4 Western, Corangamite,681,4184.6
+2015,December,4 Western, Gannawarra,587,5571.4
+2015,December,4 Western, Glenelg,1583,8026.6
+2015,December,4 Western, Golden Plains,672,3141.9
+2015,December,4 Western, Greater Bendigo,8411,7652.8
+2015,December,4 Western, Greater Geelong,20848,8950.5
+2015,December,4 Western, Hepburn,825,5380.2
+2015,December,4 Western, Hindmarsh,219,3770.7
+2015,December,4 Western, Horsham,3043,15374.9
+2015,December,4 Western, Loddon,424,5630.1
+2015,December,4 Western, Macedon Ranges,2126,4584.6
+2015,December,4 Western, Mildura,6166,11385.6
+2015,December,4 Western, Moorabool,2177,6857.1
+2015,December,4 Western, Mount Alexander,963,5124.0
+2015,December,4 Western, Moyne,586,3532.0
+2015,December,4 Western, Northern Grampians,1150,9876.3
+2015,December,4 Western, Pyrenees,496,6909.0
+2015,December,4 Western, Queenscliffe,175,5966.6
+2015,December,4 Western, Southern Grampians,1149,7109.3
+2015,December,4 Western, Surf Coast,1540,5198.3
+2015,December,4 Western, Swan Hill,2268,10855.3
+2015,December,4 Western, Warrnambool,2798,8228.2
+2015,December,4 Western, West Wimmera,157,3950.7
+2015,December,4 Western, Yarriambiack,459,6724.3
+2015,December,4 Western,Total,78298,8231.8
+2014,December,1 North West Metro, Banyule,8932,7139.5
+2014,December,1 North West Metro, Brimbank,17366,8750.0
+2014,December,1 North West Metro, Darebin,14480,9684.9
+2014,December,1 North West Metro, Hobsons Bay,7025,7769.6
+2014,December,1 North West Metro, Hume,17760,9284.9
+2014,December,1 North West Metro, Maribyrnong,8155,9889.3
+2014,December,1 North West Metro, Melbourne,33063,25835.5
+2014,December,1 North West Metro, Melton,9826,7598.9
+2014,December,1 North West Metro, Merri-bek,12696,7736.8
+2014,December,1 North West Metro, Moonee Valley,8483,7203.5
+2014,December,1 North West Metro, Nillumbik,2051,3233.3
+2014,December,1 North West Metro, Whittlesea,13591,7233.1
+2014,December,1 North West Metro, Wyndham,12973,6437.8
+2014,December,1 North West Metro, Yarra,12859,14741.8
+2014,December,1 North West Metro,Total,179260,9353.7
+2014,December,2 Eastern, Alpine,467,3779.8
+2014,December,2 Eastern, Bass Coast,2572,8058.4
+2014,December,2 Eastern, Baw Baw,3810,8168.3
+2014,December,2 Eastern, Benalla,1164,8375.3
+2014,December,2 Eastern, Boroondara,6789,3932.0
+2014,December,2 Eastern, East Gippsland,3913,8837.5
+2014,December,2 Eastern, Greater Shepparton,7261,11359.7
+2014,December,2 Eastern, Indigo,441,2803.2
+2014,December,2 Eastern, Knox,9540,6059.7
+2014,December,2 Eastern, Latrobe,11883,16029.1
+2014,December,2 Eastern, Manningham,4026,3370.8
+2014,December,2 Eastern, Mansfield,571,6801.7
+2014,December,2 Eastern, Maroondah,7762,6966.4
+2014,December,2 Eastern, Mitchell,3289,8415.2
+2014,December,2 Eastern, Moira,1423,4890.0
+2014,December,2 Eastern, Monash,9148,4914.3
+2014,December,2 Eastern, Murrindindi,671,4902.5
+2014,December,2 Eastern, South Gippsland,1201,4210.9
+2014,December,2 Eastern, Strathbogie,493,4921.1
+2014,December,2 Eastern, Towong,196,3276.5
+2014,December,2 Eastern, Wangaratta,2511,9012.3
+2014,December,2 Eastern, Wellington,3902,9085.4
+2014,December,2 Eastern, Whitehorse,7328,4459.6
+2014,December,2 Eastern, Wodonga,3171,8264.5
+2014,December,2 Eastern, Yarra Ranges,7055,4642.4
+2014,December,2 Eastern,Total,100587,6246.7
+2014,December,3 Southern Metro, Bayside,4260,4268.7
+2014,December,3 Southern Metro, Cardinia,5595,6352.9
+2014,December,3 Southern Metro, Casey,17611,6116.3
+2014,December,3 Southern Metro, Frankston,14890,10934.0
+2014,December,3 Southern Metro, Glen Eira,5352,3724.6
+2014,December,3 Southern Metro, Greater Dandenong,15960,10490.7
+2014,December,3 Southern Metro, Kingston,9466,6138.4
+2014,December,3 Southern Metro, Mornington Peninsula,10441,6671.6
+2014,December,3 Southern Metro, Port Phillip,11863,11357.5
+2014,December,3 Southern Metro, Stonnington,9610,9075.1
+2014,December,3 Southern Metro,Total,105048,7351.8
+2014,December,4 Western, Ararat,1018,8806.2
+2014,December,4 Western, Ballarat,10221,10229.8
+2014,December,4 Western, Buloke,216,3409.6
+2014,December,4 Western, Campaspe,2948,7895.4
+2014,December,4 Western, Central Goldfields,1097,8514.4
+2014,December,4 Western, Colac-Otway,1534,7259.5
+2014,December,4 Western, Corangamite,671,4106.5
+2014,December,4 Western, Gannawarra,546,5183.2
+2014,December,4 Western, Glenelg,1730,8757.3
+2014,December,4 Western, Golden Plains,577,2760.9
+2014,December,4 Western, Greater Bendigo,8628,7992.2
+2014,December,4 Western, Greater Geelong,18509,8127.1
+2014,December,4 Western, Hepburn,616,4056.9
+2014,December,4 Western, Hindmarsh,228,3901.4
+2014,December,4 Western, Horsham,2379,12046.8
+2014,December,4 Western, Loddon,531,7067.7
+2014,December,4 Western, Macedon Ranges,2088,4591.9
+2014,December,4 Western, Mildura,5935,11044.5
+2014,December,4 Western, Moorabool,1921,6183.6
+2014,December,4 Western, Mount Alexander,1012,5470.0
+2014,December,4 Western, Moyne,646,3912.3
+2014,December,4 Western, Northern Grampians,936,7947.7
+2014,December,4 Western, Pyrenees,451,6399.9
+2014,December,4 Western, Queenscliffe,126,4242.4
+2014,December,4 Western, Southern Grampians,953,5862.8
+2014,December,4 Western, Surf Coast,1411,4886.7
+2014,December,4 Western, Swan Hill,2197,10491.9
+2014,December,4 Western, Warrnambool,3001,8897.4
+2014,December,4 Western, West Wimmera,194,4804.4
+2014,December,4 Western, Yarriambiack,355,5127.1
+2014,December,4 Western,Total,72675,7743.6
